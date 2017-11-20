@@ -1,0 +1,79 @@
+.footer
+{
+
+}
+body
+{
+	background: url(https://previews.123rf.com/images/36clicks/36clicks1412/36clicks141200034/34789755-Exam-week-background-with-various-study-and-educted-related-items-such-as-a-highlighted-reader-with--Stock-Photo.jpg
+	) no-repeat;
+	background-position: top;
+    background-size: cover;
+}
+#list
+{
+	font-weight:bolder;
+}
+#onclick
+{
+	background-color:#CE1815;
+	font-weight:bolder;
+	text-decoration:underline;
+	padding:10px;
+	color:#fff;
+}
+.follow
+{
+ text-align:center;
+
+  padding:10px
+}
+.Stu
+{
+ text-align:center;
+font-weight:bolder;
+}
+#student
+{
+	text-align:center;
+	background-color:#D3D3D3  ;
+}
+#name
+{
+background-color:#ffff99;
+}
+#rollno
+{
+background-color:#ffff99;
+}
+#year
+{
+background-color:#ffff99;
+}
+#stream
+{
+background-color:#ffff99;
+}
+#table
+{
+ text-align:center;
+}
+#goog
+{
+font-size:48px;
+color: #db4a39;
+}
+#twitt
+{
+font-size:48px;
+color: #0084b4;
+}
+#face
+{
+font-size:48px;
+color:#29487d;
+}
+#linked
+{
+font-size:48px;
+color: #827be9;
+}
